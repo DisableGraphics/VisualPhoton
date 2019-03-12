@@ -1,0 +1,10 @@
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\bin\Debug\VisualPhoton.exe.config
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\bin\Debug\VisualPhoton.exe
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\bin\Debug\VisualPhoton.pdb
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\obj\Debug\VisualPhoton.csprojAssemblyReference.cache
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\obj\Debug\VisualPhoton.Form1.resources
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\obj\Debug\VisualPhoton.Properties.Resources.resources
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\obj\Debug\VisualPhoton.csproj.GenerateResource.cache
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\obj\Debug\VisualPhoton.csproj.CoreCompileInputs.cache
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\obj\Debug\VisualPhoton.exe
+K:\Nueva carpeta\VSprojs\VisualPhoton\VisualPhoton\obj\Debug\VisualPhoton.pdb
